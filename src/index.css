@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=DM+Sans:wght@300;400;500&display=swap');
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'DM Sans', sans-serif;
+  background: #ece5d7;
+  color: #1A1A1A;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Hide scrollbars on category rows */
+::-webkit-scrollbar {
+  display: none;
+}
+
+/* (removed stray scrollbar-width declaration) */
+
+button {
+  font-family: 'DM Sans', sans-serif;
+}
+
+input, select, textarea {
+  font-family: 'DM Sans', sans-serif;
+}
