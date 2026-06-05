@@ -32,6 +32,10 @@ freshmart/
 ```
 
 ---
+![React](https://img.shields.io/badge/React-18-blue)
+![Vite](https://img.shields.io/badge/Vite-5-purple)
+![Status](https://img.shields.io/badge/Status-Completed-green)
+
 
 ## 🚀 Getting Started
 
@@ -67,9 +71,16 @@ npm run preview
 - **Checkout** — Address form, 3 payment options, promo code, live order summary with discount
 - **Login / Sign up** — Tabbed auth, Google sign-in button
 - **Order success** — Confirmation screen with order number
-
+- Category-based filtering
+- Quantity selector
+- Dynamic cart updates
+- Promo code support
 ---
-
+### 🔐 Authentication
+- Login form
+- Sign up form
+- Google sign-in UI
+ ---
 ## 🎨 Tech Stack
 
 | Tool        | Purpose              |
