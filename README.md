@@ -92,8 +92,4 @@ npm run preview
 
 ---
 
-## 🌿 Customisation
 
-- **Products** — Edit `src/data/products.js`
-- **Colors** — Edit `src/theme.js`
-- **Fonts** — Change the import URL in `src/index.css`
